@@ -43,6 +43,6 @@ springboot lecture for my friend :)
   - QueryDSL
   - vo -> dto, entity
 - mvc
-  - Controller - Service - repository
+  - Controller - Service - Repository
   - dto / entity
   - timelyf
