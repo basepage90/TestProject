@@ -30,15 +30,19 @@ springboot lecture for my friend :)
 ### v2 게시판 만들기
 - Object Concept
   - dto
-  - dao
+  - vo(domain)
   - entity
 - mybatis
-- front
+- mvc
+  - Controller - Service - Mapper
+  - vo
   - jsp
 ### v3 JPA 마이그레이션
 - JPA
   - SpringDataJpa
   - QueryDSL
-  - vo -> entity
-- fornt
+  - vo -> dto, entity
+- mvc
+  - Controller - Service - repository
+  - dto / entity
   - timelyf
